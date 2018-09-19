@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Pratheeksha Nair
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -42,10 +42,10 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Pratheeksha Nair
+  email:               96.pratheek@gmail.com
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  # twitter:             passerBy
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
@@ -94,7 +94,7 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
 defaults:
   - scope:
-      path:            hyde
+      path:            Work
     values:
       accent_color:    rgb(38,139,210)
       accent_image:
