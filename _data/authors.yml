@@ -33,7 +33,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         passerBy
+    # twitter:         passerBy
     github:          Prat-123
     # email:           96.pratheek@gmail.com
     # rss:             https://<url>/feed.xml
@@ -64,7 +64,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        Pratheeksha-Nair
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
