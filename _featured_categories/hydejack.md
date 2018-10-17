@@ -5,5 +5,5 @@ slug: Interests
 menu: true
 order: 1
 description: >
-  If the solution to everything was simple, then life would be too easy!
+  I am interested in Machine Learning and AI especillay in the medical domain. 
 ---
