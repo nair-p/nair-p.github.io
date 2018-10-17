@@ -9,5 +9,8 @@ description: >
   <br> <br>
   **Phone**: +91 9496196155
   <br> <br>
-  **Address**: WH2-229, IIIT-B,  26/C Hosur Road, Electronic City Phase-1, Bengaluru-560100
+  **Address**: WH2-229, IIIT-B
+   <br> 26/C Hosur Road
+   <br> Electronic City Phase-1
+   <br> Bengaluru-560100
 ---
