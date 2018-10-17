@@ -24,13 +24,11 @@ title:                 Pratheeksha Nair
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  Inspire by actions rather than words!
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  Inspire by actions rather than words!
 
 # A list of keywords for your blog
 keywords:              []
@@ -49,8 +47,7 @@ author:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2018. All rights reserved.
-  Open `_config.yml` to edit this text.
+  © Made with love, code and coffee
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
