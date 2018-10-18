@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Interests
+title: What piques my interest
 slug: Interests
 menu: true
 order: 1
