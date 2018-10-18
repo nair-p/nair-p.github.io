@@ -11,6 +11,4 @@ I occassionally write too. I have two blogs that I try to keep up-to-date -- a [
 Sometimes I join the Dance Club members while rehearsing for a performance because I love to dance! 
 
 I also enjoy playing the veena which is an Indian classical music instrument and have received formal training for the same.
-
-
 ---
