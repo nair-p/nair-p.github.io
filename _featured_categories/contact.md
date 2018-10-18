@@ -3,7 +3,7 @@ layout: list
 title: Contact
 slug: Contact
 menu: true
-order: 3
+order: 4
 description: >
   **E-mail**: 96 [dot] pratheek [at] gmail [dot] com 
   <br> <br>
