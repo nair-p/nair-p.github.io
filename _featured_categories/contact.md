@@ -1,5 +1,4 @@
 ---
-layout: list
 title: Contact
 slug: Contact
 menu: true
