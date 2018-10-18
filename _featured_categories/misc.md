@@ -1,8 +1,8 @@
 ---
-title: Get in touch
-slug: Contact
+title: Leisurely amusements
+slug: Leisurely amusements
 menu: true
-order: 6
+order: 5
 description: >
   **E-mail**: 96 [dot] pratheek [at] gmail [dot] com 
   <br> <br>

@@ -1,5 +1,6 @@
 ---
-title: Get in touch
+layout: 
+title: Contact
 slug: Contact
 menu: true
 order: 6
@@ -12,5 +13,4 @@ description: >
    <br> 26/C Hosur Road
    <br> Electronic City Phase-1
    <br> Bengaluru-560100
-   <br> Karnataka, India
 ---
