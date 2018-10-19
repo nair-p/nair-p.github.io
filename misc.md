@@ -6,7 +6,7 @@ order: 5
 description: >
 ---
 
-  When I'm not coding or reading papers, you will find my nose buried in a book that belongs to one of the following categories: novel, adult-fiction, drama, thriller, classic or horror. I am a major fan of Dan Brown, Agatha Christie and Khaled Houssini. Some of the most impressionable books I've read would include <img src="/assets/img/lost-symbol.jpg" height = "100" width="50"/> <img src="/assets/img/suns.jpg" height = "100" width="50"/> 
+  When I'm not coding or reading papers, you will find my nose buried in a book that belongs to one of the following categories: novel, adult-fiction, drama, thriller, classic or horror. I am a major fan of Dan Brown, Agatha Christie and Khaled Houssini. Some of the most impressionable books I've read would include <img src="/assets/img/lost-symbol.jpg" height = "10" width="5"/> <img src="/assets/img/suns.jpg" height = "10" width="5"/> 
 
 Sometimes I also like to watch TV shows and movies. 
 
