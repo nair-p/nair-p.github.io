@@ -9,7 +9,7 @@ description: >
   When I'm not coding or reading papers, you will find my nose buried in a book that belongs to one of the following categories: novel, adult-fiction, drama, thriller, classic or horror. I am a major fan of [Dan Brown](http://danbrown.com/), [Agatha Christie](https://www.agathachristie.com/) and [Khaled Houssini](https://khaledhosseini.com/). Some of the most impressionable books I've read would include 
 
 <br>
-<img src="/assets/img/lost-symbol.jpg" height = "100" width="70"/>      <img src="/assets/img/suns.jpg" height = "100" width="70"/>       <img src="/assets/img/murder.jpg" height = "100" width="70"/>  
+<a href="https://en.wikipedia.org/wiki/The_Lost_Symbol"><img src="/assets/img/lost-symbol.jpg" height = "100" width="70"/></a>      <a href="https://en.wikipedia.org/wiki/The_Murder_of_Roger_Ackroyd"><img src="/assets/img/suns.jpg" height = "100" width="70"/>       <a href="https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns"><img src="/assets/img/murder.jpg" height = "100" width="70"/>  
 <br>
 
 Sometimes I also like to watch TV shows and movies such as [Black Mirror](https://www.imdb.com/title/tt2085059/), [The Crown](https://www.imdb.com/title/tt4786824/?ref_=fn_al_tt_1) and [Predestination](https://www.imdb.com/title/tt2397535/?ref_=nv_sr_1).
