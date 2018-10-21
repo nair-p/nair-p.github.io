@@ -4,7 +4,7 @@ slug: Contact
 menu: true
 order: 6
 description: >
-  **E-mail**: 96 [dot] pratheek [at] gmail [dot] com 
+  **E-mail**: 96.pratheek@gmail.com 
   <br> <br>
   **Phone**: +91 9496196155
   <br> <br>
