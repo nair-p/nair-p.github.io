@@ -14,7 +14,7 @@ medicine.
 
 2. **Method Summarization from Code**
 
-     This work was carried out while I was an intern at **IBM Research AI Lab, Bangalore** from May'18 to Aug'18. I worked with [Rahul AR]() on using sequence-to-sequence models models for solving problems prevalent in Software Engineering -- the automatic generation of method names from method bodies.
+     This work was carried out while I was an intern at **IBM Research AI Lab, Bangalore** from May'18 to Aug'18. I worked with Rahul AR on using sequence-to-sequence models models for solving problems prevalent in Software Engineering -- the automatic generation of method names from method bodies.
 
 3. **Scaling up Simhash**
 
