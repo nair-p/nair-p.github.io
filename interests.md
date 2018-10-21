@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: What piques my interest
 slug: Interests
 menu: true
