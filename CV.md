@@ -7,7 +7,7 @@ description: >
 ---
 # Curriculum Vitae
 
-Please find my official one-page [CV](assets/cv.pdf) as updated on October 16, 2018. 
+My official one-page CV as updated on October 16, 2018 can be found [here](assets/cv.pdf). 
 <br>
 My detailed CV can be found [here](assets/cv_long.pdf).
 
