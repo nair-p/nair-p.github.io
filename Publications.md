@@ -1,4 +1,5 @@
 ---
+layout: list
 title: Publications
 slug: Publications
 menu: true
