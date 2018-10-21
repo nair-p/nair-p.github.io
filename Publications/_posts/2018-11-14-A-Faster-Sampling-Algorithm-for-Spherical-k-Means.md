@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Scalable Clustering Algorithm for Serendipity in Recommender Systems
+title: A Faster Sampling Algorithm for Spherical k-Means
 description: >
   Accepted for presentation in [ACML 2018](http://www.acml-conf.org/2018/)
 
