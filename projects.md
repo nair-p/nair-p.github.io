@@ -10,7 +10,7 @@ description: >
 1. **Word Embeddings for the Medical Domain**
 
      This is an ongoing work for on generating word embeddings specifically for medical terms making use of hierarchical ontologies in
-medicine.
+medicine. This work is advised by [Prof. G S Raghavan](https://www.iiitb.ac.in/faculty_page.php?name=gsrinivasaraghavan). 
 
 2. **Method Summarization from Code**
 
@@ -18,15 +18,15 @@ medicine.
 
 3. **Scaling up Simhash**
 
-     This is a dimensionality reduction algorithm that maintains an estimate of the cosine similarity between the original high-dimensional data points. This work is currently under review at a top tier AI conference. 
+     This is a dimensionality reduction algorithm that maintains an estimate of the cosine similarity between the original high-dimensional data points. This work was done in collaboration with [Dr. R Pratap](https://sites.google.com/site/prataprameshwaryadav/) and is currently under review at a top tier AI conference.
 
 4. **A Scalable Clustering Algorithm for Serendipity in Recommender Systems**
 
-     This work addresses the problems of sparsity and overspecialization in Recommender Systems. It proposes SC-CF, a clustering based algorithm that takes diversity, unexpectedness and relevance into consideration while giving recommendations. It affectuates "serendipity" in the recommendations. It makes use of a variant of the Spherical K-Means algorithm to tackle sparsity of data points. This paper is to be presented at ICDM 2018 in Singapore in November, 2018. 
+     This work addresses the problems of sparsity and overspecialization in Recommender Systems. It proposes SC-CF, a clustering based algorithm that takes diversity, unexpectedness and relevance into consideration while giving recommendations. It affectuates "serendipity" in the recommendations. It makes use of a variant of the Spherical K-Means algorithm to tackle sparsity of data points. I was advised by [Prof. Shrisha Rao](https://www.iiitb.ac.in/faculty_page.php?name=shrisharao). This paper is to be presented at ICDM 2018 in Singapore in November, 2018. 
 
 5. **A Faster Sampling Algorithm for Spherical k-means**
 
-     In this work we experimentally validated the SPKM++ algorithm by considering the spherical clustering problem for large sparse document collections. We proved that with our approach, the computational complexity in SPKM++ can be decreased while retaining the clustering results. This paper is to be presented at ACML 2018 in Beijing in November, 2018. 
+     In this work we experimentally validated the SPKM++ algorithm by considering the spherical clustering problem for large sparse document collections. We proved that with our approach, the computational complexity in SPKM++ can be decreased while retaining the clustering results. This work was mentored by [Dr. R Pratap](https://sites.google.com/site/prataprameshwaryadav/) and is to be presented at ACML 2018 in Beijing in November, 2018. 
 
 6. **Detection of star clusters using Pattern Analysis**
 
