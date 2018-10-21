@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-slug: Work
+slug: Projects
 menu: true
 order: 2
 description: >
