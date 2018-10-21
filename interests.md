@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: blog
 title: What piques my interest
 slug: Interests
 menu: true
 order: 1
 description: >
-  I am interested in Machine Learning and AI especillay in the medical domain. 
+  How well can AI interlace with disciplines like bioinformatics and healthcare to improve living standards? 
 ---
+
+It's amazing
