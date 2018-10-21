@@ -5,7 +5,6 @@ slug: Projects
 menu: true
 order: 2
 description: >
-	These include my notable projects done as part of internships and coursework.
 ---
 
 1. **Word Embeddings for the Medical Domain**
