@@ -6,7 +6,7 @@ order: 5
 description: >
 ---
 
-  When I'm not coding or reading papers, you will find my nose buried in a book that belongs to one of the following categories: novel, adult-fiction, drama, thriller, classic or horror. I am a major fan of [Dan Brown](http://danbrown.com/), [Agatha Christie](https://www.agathachristie.com/) and [Khaled Houssini](https://khaledhosseini.com/). Some of the books I've read that have left an impression of me would include 
+  When I'm not coding or reading papers, you will find my nose buried in a book that belongs to one of the following categories: novel, adult-fiction, drama, thriller, classic or horror. I am a major fan of [Dan Brown](http://danbrown.com/), [Agatha Christie](https://www.agathachristie.com/) and [Khaled Houssini](https://khaledhosseini.com/). Some of the books I've read that have left an impression on me would include 
 
 <br>
 <img src="/assets/img/lost-symbol.jpg" height = "100" width="70"/>  <img src="/assets/img/suns.jpg" height = "100" width="70"/>    <img src="/assets/img/murder.jpg" height = "100" width="70"/>   <img src="/assets/img/sapiens.png" height = "100" width = "70"/>    <img src="/assets/img/light.jpeg" height = "100" width = "70"/> <img src="/assets/img/white-tiger.jpeg" height = "100" width = "70"/> <img src="/assets/img/meluha.jpg" height = "100" width = "70"/>  <img src="/assets/img/hp.jpeg" height = "100" width = "70"/>
