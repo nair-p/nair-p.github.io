@@ -9,7 +9,7 @@ description: >
 
 1. **Word Embeddings for the Medical Domain**
 
-     This is an ongoing work for on generating word embeddings specifically for medical terms making use of hierarchical ontologies in
+     This is an ongoing work on generating word embeddings specifically for medical terms making use of hierarchical ontologies in
 medicine. This work is advised by [Prof. G S Raghavan](https://www.iiitb.ac.in/faculty_page.php?name=gsrinivasaraghavan). 
 
 2. **Method Summarization from Code**
