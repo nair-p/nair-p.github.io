@@ -9,7 +9,7 @@ description: >
 ---
   **_How well can AI be interlaced with various disciplines like bioinformatics and healthcare to improve living standards?_**
 
-Going by what Yann LeCun said -- "*Our intelligence is what makes us human, and AI is an extension of that quality*" -- it is hardly a surprise that we have already achieved so much. 
+Yann LeCun's words -- "*Our intelligence is what makes us human, and AI is an extension of that quality*" -- serve as my motivation to strive for excellence. 
 
 As a Computer Science major, I am interested in understanding and applying my technical knowledge in the fields of medicine and healthcare. Out of interest and for my better understanding of the area, I am currently reading **Bio-Inspired artificial intelligence** by Dario Floreano.
 <br><br>
