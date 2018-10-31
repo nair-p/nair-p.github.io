@@ -18,7 +18,8 @@ medicine. This work is advised by [Prof. G S Raghavan](https://www.iiitb.ac.in/f
 
 3. **Automatic ROI detection from Histopathological slides**
 
-     This work uses an RCNN architecture to automatically detect suspicious (of being carcinogenic) regions in images of histopathological slides. It works for images at various zoom levels. The main challenges faced during this project was dealing with the large sizes of images (nearly 22000x37000) which we circumvented by dividing into multiple grids and stitching them back together for visualizing results.
+     This work uses an RCNN architecture to automatically detect suspicious (of being carcinogenic) regions in images of histopathological slides. It works for images at various zoom levels. The main challenges faced during this project was dealing with the large sizes of images (nearly 22000x37000) which we circumvented by dividing into multiple grids and stitching them back together for visualizing results. This projec was carried out under the guidance of [Prof. T  K Srikanth](https://www.iiitb.ac.in/faculty_page.php?name=tksrikanth).
+<br>
 <img src="/asstes/img/roi-det.png">
 
 4. **Scaling up Simhash**
