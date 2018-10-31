@@ -29,5 +29,6 @@ medicine. This work is advised by [Prof. G S Raghavan](https://www.iiitb.ac.in/f
 
 5. **Detection of star clusters using Pattern Analysis**
 
-     This work was done with [Prof. Sarita Vig](https://www.iist.ac.in/ess/sarita) while I was an intern at the [Indian Institute of Space Sciene and Technology](https://www.iist.ac.in/) from May'17 to Aug'17. Worked on a direct application of pattern analysis techniques for a highly relevant problem statement in astrophysics.
-Used the K-Nearest Neighbor algorithm for density estimation and detection of star clusters.
+     This work was done with [Prof. Sarita Vig](https://www.iist.ac.in/ess/sarita) while I was an intern at the [Indian Institute of Space Sciene and Technology](https://www.iist.ac.in/) from May'17 to Aug'17. Worked on a direct application of pattern analysis techniques for a highly relevant problem statement in astrophysics. Used the K-Nearest Neighbor algorithm for density estimation and detection of star clusters. The image shows a contour plot of a locus of simulated points with equal probability density. Highly dense regions correspond to star clusters.
+<br>
+<img src="/assets/img/iist.jpg"> 
