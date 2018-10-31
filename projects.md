@@ -18,9 +18,9 @@ medicine. This work is advised by [Prof. G S Raghavan](https://www.iiitb.ac.in/f
 
 3. **Automatic ROI detection from Histopathological slides**
 
-     This work uses an RCNN architecture to automatically detect suspicious (of being carcinogenic) regions in images of histopathological slides. It works for images at various zoom levels. The main challenges faced during this project was dealing with the large sizes of images (nearly 22000x37000) which we circumvented by dividing into multiple grids and stitching them back together for visualizing results. This projec was carried out under the guidance of [Prof. T  K Srikanth](https://www.iiitb.ac.in/faculty_page.php?name=tksrikanth).
+     This work uses an RCNN architecture to automatically detect suspicious (of being carcinogenic) regions in images of histopathological slides. It works for images at various zoom levels. The main challenges faced during this project was dealing with the large sizes of images (nearly 22000x37000) which we circumvented by dividing into multiple grids and stitching them back together for visualizing results. This project was carried out under the guidance of [Prof. T  K Srikanth](https://www.iiitb.ac.in/faculty_page.php?name=tksrikanth).
 <br>
-<img src="/asstes/img/roi-det.png">
+<img src="/assets/img/roi-det.png">
 
 4. **Scaling up Simhash**
 
@@ -31,4 +31,4 @@ medicine. This work is advised by [Prof. G S Raghavan](https://www.iiitb.ac.in/f
 
      This work was done with [Prof. Sarita Vig](https://www.iist.ac.in/ess/sarita) while I was an intern at the [Indian Institute of Space Sciene and Technology](https://www.iist.ac.in/) from May'17 to Aug'17. Worked on a direct application of pattern analysis techniques for a highly relevant problem statement in astrophysics. Used the K-Nearest Neighbor algorithm for density estimation and detection of star clusters. The image shows a contour plot of a locus of simulated points with equal probability density. Highly dense regions correspond to star clusters.
 <br>
-<img src="/assets/img/iist.jpg"> 
+<img src="/assets/img/iist.jpg" height=200 width=100> 
