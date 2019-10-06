@@ -4,11 +4,10 @@ slug: Contact
 menu: true
 order: 6
 description: >
-  **E-mail**: Pratheeksha.Nair@iiitb.org
+  **E-mail**: Pratheeksha.Nair@mcgill.cs.ca
   <br> <br>
-  **Address**: WH2-229, IIIT-B
-   <br> 26/C Hosur Road
-   <br> Electronic City Phase-1
-   <br> Bengaluru-560100
-   <br> Karnataka, India
+  **Address**: McGill University
+   <br> 845 Sherbrooke St W
+   <br> Montreal, Quebec H3A 0G4
+   <br> Canada
 ---
