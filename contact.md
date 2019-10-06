@@ -4,7 +4,7 @@ slug: Contact
 menu: true
 order: 6
 description: >
-  **E-mail**: Pratheeksha.Nair@mcgill.cs.ca
+  **E-mail**: Pratheeksha.Nair@mail.mcgill.ca
   <br> <br>
   **Address**: McGill University
    <br> 845 Sherbrooke St W
