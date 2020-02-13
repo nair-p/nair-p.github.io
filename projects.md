@@ -7,7 +7,7 @@ order: 2
 description: >
 ---
 
-1. **Mortality prediction on MIMIC-III using a latent topic model** - Under review in a top AI conference 
+1. **Mortality prediction on MIMIC-III using a latent topic model**  
 
    Introduced the idea of treating different types of clinical notes from EHR (physician notes, nurses notes, etc) as different modalities in learning latent topics from MIMIC-III data and using the learned topics for making clinically relevant predictions.
 
