@@ -7,7 +7,7 @@ description: >
 ---
 # Curriculum Vitae
 
-My official one-page CV as updated on February 12th, 2020 can be found [here](assets/cv.pdf)
+My official one-page CV as updated on May 30th, 2020 can be found [here](assets/cv.pdf)
 
 
 

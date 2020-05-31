@@ -7,11 +7,10 @@ order: 1
 description: >
    
 ---
-  **_How well can AI be interlaced with scientific disciplines like healthcare to improve living standards?_**
+  **_How can AI be used for social good?_**
 
 Yann LeCun's words -- "*Our intelligence is what makes us human, and AI is an extension of that quality*" -- serve as my motivation to work in this field. 
 
-As a Computer Science major, I am interested in understanding and applying my technical knowledge in the fields of medicine and healthcare. I believe that the cutting-edge research work in Computer Science is ripe for ardent applications in inter-disciplinary areas. I am especially interested in learning **robust, general-purpose** and **interpretable** representations of electronic health records which will be useful in clinical tasks and can ultimately contribute to clinical recommender systems. 
-
+As a Computer Science major, I am interested in understanding and applying Machine Learning for applications benefitting society. I am especially interested in addressing questions of interpretability of models in socially relevant fields like healthcare, social media, etc.
 
 
