@@ -17,7 +17,7 @@ description: >
 
   I love engaging in deep, mind-piquing conversations and believe that balance is the key to happiness. I hope to achieve a well-balanced, healthy life-style and strive towards the same. 
 
-  I am also pursuing dance lessons in Kathak, an Indian classical style of dance. I also enjoy others forms of dance styles including fold and Bollywood.
+  I am pursuing dance lessons in Kathak, an Indian classical style of dance. I also enjoy others forms of dance styles including fold and Bollywood.
 
   I play the veena which is an Indian classical music instrument and have received formal training for the same.
 
