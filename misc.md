@@ -15,7 +15,9 @@ description: >
 
   I occassionally write too. I have two blogs that I try to keep up-to-date --- a personal one called [FreeSpirits](https://96pratheek.wordpress.com/) and a technical one named [Prathena](https://medium.com/prathena). I like to write-up about interesting new technology that I come across or if there is some new philosophy I have discovered of life. If I had to consider an alternate career path - it would be writing! 
 
-  Sometimes I join the Dance Club members while they rehearse for a performance because I love to dance! I mostly follow the Indian folk and Bollywood styles. 
+  I love engaging in deep, mind-piquing conversations and believe that balance is the key to happiness. I hope to achieve a well-balanced, healthy life-style and strive towards the same. 
 
-  I also enjoy playing the veena which is an Indian classical music instrument and have received formal training for the same.
+  I am also pursuing dance lessons in Kathak, an Indian classical style of dance. I also enjoy others forms of dance styles including fold and Bollywood.
+
+  I play the veena which is an Indian classical music instrument and have received formal training for the same.
 
