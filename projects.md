@@ -11,10 +11,10 @@ description: >
 
    Introduced the idea of treating different types of clinical notes from EHR (physician notes, nurses notes, etc) as different modalities in learning latent topics from MIMIC-III data and using the learned topics for making clinically relevant predictions.
 
-2. **Word Embeddings for the Medical Domain**
+<2. **Word Embeddings for the Medical Domain**>
 
-     This work is on generating word embeddings specifically for medical terms making use of hierarchical ontologies in
-medicine. This work was advised by [Prof. G S Raghavan](https://www.iiitb.ac.in/faculty_page.php?name=gsrinivasaraghavan). 
+<     This work is on generating word embeddings specifically for medical terms making use of hierarchical ontologies in>
+<medicine. This work was advised by [Prof. G S Raghavan](https://www.iiitb.ac.in/faculty_page.php?name=gsrinivasaraghavan).>
 
 3. **Method Summarization from Code**
 
