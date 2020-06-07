@@ -12,12 +12,8 @@ description: >
    Introduced the idea of treating different types of clinical notes from EHR (physician notes, nurses notes, etc) as different modalities in learning latent topics from MIMIC-III data and using the learned topics for making clinically relevant predictions.
 
 2. **Group Equivariant Deep Reinforcement-Learning**
+
    Used an equivariant CNN for approximating Q-values using Deep Q-Network algorithm for symmetric RL environments like Snake and Pacman. Currently under review in an ML conferencce.
-
-<!-- 2. **Word Embeddings for the Medical Domain**
-
-    This work is on generating word embeddings specifically for medical terms making use of hierarchical ontologies in
-	medicine. This work was advised by [Prof. G S Raghavan](https://www.iiitb.ac.in/faculty_page.php?name=gsrinivasaraghavan). -->
 
 3. **Method Summarization from Code**
 
@@ -39,3 +35,8 @@ description: >
    This work was done with [Prof. Sarita Vig](https://www.iist.ac.in/ess/sarita) while I was an intern at the [Indian Institute of Space Sciene and Technology](https://www.iist.ac.in/) from May'17 to Aug'17. Worked on a direct application of pattern analysis techniques for a highly relevant problem statement in astrophysics. Used the K-Nearest Neighbor algorithm for density estimation and detection of star clusters. The images below show contour plots of a locus of simulated points with equal probability density. Highly dense regions correspond to star clusters.
 <br>
 <img src="/assets/img/iist.jpg" height="150" width="200"> <img src="/assets/img/iist2.jpg" height="150" width="200"> <img src="/assets/img/iist3.jpg" height="150" width="200">
+
+<!-- 2. **Word Embeddings for the Medical Domain**
+
+    This work is on generating word embeddings specifically for medical terms making use of hierarchical ontologies in
+	medicine. This work was advised by [Prof. G S Raghavan](https://www.iiitb.ac.in/faculty_page.php?name=gsrinivasaraghavan). -->
