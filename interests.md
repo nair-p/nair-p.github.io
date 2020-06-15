@@ -21,7 +21,7 @@ I graduated from <a href="https://www.iiitb.ac.in/">International Institute of I
 I was associated with the Multi-modal Perception Lab at IIIT-B 
 <a href="http://mpl.iiitb.ac.in/"> <img border="0" src="/assets/img/mpl.png" width="133" height="100"></a>
 and did my M.Tech thesis under the supervision of <a href="https://www.iiitb.ac.in/faculty_page.php?name=dineshbabujayagopi">Prof. Dinesh Babu</a>
-<br> My thesis work was titled <a href= "assets/Thesis.pdf"><b>Deep generative models to generate valid SMILES strings</b></a>(sequential representation of molecules). This work focused on improving the percentage of valid SMILES sequences generated using existing deep learning methods by introducing a modified training strategy. 
+<br> My thesis work was titled "Deep generative models to generate valid SMILES strings" (sequential representation of molecules). This work focused on improving the percentage of valid SMILES sequences generated using existing deep learning methods by introducing a modified training strategy. 
 
 At IIIT-B, I also worked on spherical K-Means clustering algorithms and their application in recommender systems. 
 
