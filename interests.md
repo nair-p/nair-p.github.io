@@ -13,7 +13,7 @@ Yann LeCun's words -- "*Our intelligence is what makes us human, and AI is an ex
 
 As a Computer Science major, I am interested in understanding and applying Machine Learning in applications benefitting society. I am especially interested in addressing questions related to the interpretability and explainability of models in socially relevent fields. I give due importance to writing clean, precise code and to presenting visually appealing and reproducible results. 
 
-I am a PhD student in <a href="https://www.cs.mcgill.ca/~yueli/index.html">Prof. Yue Li's</a> lab at McGill University, School of Computer Science. My work here deals with applications of Machine Learning in healthcare where one aspect is on mining clinical notes like Electronic Health Records.
+I am a PhD student in <a href="https://www.cs.mcgill.ca/~yueli/index.html">Prof. Yue Li's</a> lab at McGill University, School of Computer Science. My work here deals with applications of *Machine Learning in healthcare* where one aspect is on mining clinical notes like Electronic Health Records.
  
 I graduated from <a href="https://www.iiitb.ac.in/">International Institute of Information Technology, Bangalore, India (IIIT-B)</a> and received my M.Tech (Master of Technology) and B.Tech (Bachelor of Technology) degrees in IT (Information Technology). 
 
