@@ -6,6 +6,11 @@ menu: true
 order: 3
 image: /assets/img/blog/hydejack-8.png
 ---
++ [2020] Rameshwar Pratap, Anup Deshmukh, **Pratheeksha Nair**, Anirudh Ravi, "**Scaling up Simhash**", In the Proceeding of Machine Learning Research (ACML 2020)([Paper](http://proceedings.mlr.press/v129/pratap20b.html))
+
++ [2020] Yue Li, **Pratheeksha Nair**, Zhi Wen, Imane Chafi, et al, "**Global Surveillance of COVID-19 by mining news media using a multi-source dynamic embedded topic model**", ACM Conference on Bioinformatics, Computational Biology and Health Informatics (ACM-BCB 2020)
+
++ [2020] Arnab Kumar Mondal, **Pratheeksha Nair**, Kaleem Siddiqi, "**Group Equivariant Deep Reinforcement Learning**", Inductive Biases, Invariances and Generalization in RL (ICML 2020)([Paper])(https://arxiv.org/pdf/2007.03437.pdf)
 
 + [2020] Yue Li, **Pratheeksha Nair**, Xing Han Lu, Zhi Wen, et al, "**Inferring multimodal latent topics from electronic health records**", Nature Communications volume 11, Article number: 2536 (2020) ([Paper](https://www.nature.com/articles/s41467-020-16378-3))
 
