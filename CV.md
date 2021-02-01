@@ -7,7 +7,7 @@ description: >
 ---
 # Curriculum Vitae
 
-My official CV as updated on October 22nd, 2020 can be found [here](assets/cv_updated.pdf)
+My official CV as updated on February 1st, 2021 can be found [here](assets/cv_updated.pdf)
 
 
 
