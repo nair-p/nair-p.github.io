@@ -7,19 +7,23 @@ order: 2
 description: >
 ---
 
-1. **Mortality prediction on MIMIC-III using a latent topic model**  
+1. **VisPaD - Visualization and Pattern Discovery for Fighting Human Trafficking**
+
+   An interactive visual system designed for domain experts to annotate clusters of escort ads based on suspiciousness of trafficking. It makes use of micro-clusters obtained by running Infoshield algorithm. [Code](https://github.com/nair-p/VisPaD) [Poster](assets/VisPaD_poster.pdf)
+
+2. **Mortality prediction on MIMIC-III using a latent topic model**  
 
    Introduced the idea of treating different types of clinical notes from EHR (physician notes, nurses notes, etc) as different modalities in learning latent topics from MIMIC-III data and using the learned topics for making clinically relevant predictions.
 
-2. **Group Equivariant Deep Reinforcement-Learning**
+3. **Group Equivariant Deep Reinforcement-Learning**
 
    Used an equivariant CNN for approximating Q-values using Deep Q-Network algorithm for symmetric RL environments like Snake and Pacman. Currently under review in an ML conferencce.
 
-3. **Method Summarization from Code**
+4. **Method Summarization from Code**
 
    This work was carried out while I was an intern at **IBM Research AI Lab, Bangalore** from May'18 to Aug'18. I worked with **Rahul AR** on using sequence-to-sequence models models for solving problems prevalent in Software Engineering -- the automatic generation of method names from method bodies.
 
-4. **Automatic ROI detection from Histopathological slides**
+5. **Automatic ROI detection from Histopathological slides**
 
    This work uses an RCNN architecture to automatically detect suspicious (of being carcinogenic) regions in images of histopathological slides. It works for images at various zoom levels. The main challenges faced during this project was dealing with the large sizes of images (nearly 22000x37000) which we circumvented by dividing into multiple grids and stitching them back together for visualizing results. This project was carried out under the guidance of [Prof. T  K Srikanth](https://www.iiitb.ac.in/faculty_page.php?name=tksrikanth). The boxes denote suspicious regions.
 <br>
