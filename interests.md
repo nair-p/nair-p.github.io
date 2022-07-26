@@ -9,11 +9,12 @@ description: >
 ---
   **_How can AI be used for social good?_**
 
-Yann LeCun's words -- "*Our intelligence is what makes us human, and AI is an extension of that quality*" -- serve as my motivation to work in this field. 
+"*Our intelligence is what makes us human, and AI is an extension of that quality*" -- Yann LeCun
 
-As a Computer Science major, I am interested in understanding and applying <b>Machine Learning in applications benefitting society</b>. I am especially interested in addressing questions related to the interpretability and explainability of models in socially relevent fields. I give due importance to writing clean, precise code and to presenting visually appealing and reproducible results. 
+As a Computer Scientist, I am broadly interested in understanding and applying <b>Machine Learning in applications benefitting society</b>. Specifically, I am working on problems in the domain of interconnected data and learning from limited labels (weak supervision, active learning, noisy labels for graphs).
 
-I am a PhD student in the <a href="https://complexdatalabmcgill.github.io/">Complex Data lab</a> at McGill University, School of Computer Science under the supervision of <a href="http://www.reirab.com/">Prof. Reihaneh Rabbany</a>. I work on developing methods to solve socially relevant problems from interconnected data. 
+I am a PhD student in the <a href="https://complexdatalabmcgill.github.io/">Complex Data lab</a> at McGill University, School of Computer Science under the supervision of <a href="http://www.reirab.com/">Prof. Reihaneh Rabbany</a>. I work on developing methods to detect organized activity in online escort advertisement spaces. 
+
  
 I graduated from <a href="https://www.iiitb.ac.in/">International Institute of Information Technology, Bangalore, India (IIIT-B)</a> and received my M.Tech (Master of Technology) and B.Tech (Bachelor of Technology) degrees in IT (Information Technology). 
 
