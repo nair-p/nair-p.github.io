@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About Me
 slug: Interests
 menu: true
