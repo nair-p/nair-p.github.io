@@ -7,7 +7,7 @@ description: >
 ---
 # Curriculum Vitae
 
-My CV as updated on January 21st, 2022 can be found [here](assets/cv.pdf)
+My CV as updated on September 5th, 2023 can be found [here](assets/cv_updated.pdf)
 
 
 
