@@ -2,7 +2,7 @@
 layout: page
 title: Leisurely amusements
 slug: misc
-menu: true
+menu: false
 order: 5
 description: >
 ---
