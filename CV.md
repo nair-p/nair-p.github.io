@@ -7,7 +7,7 @@ description: >
 ---
 # Curriculum Vitae
 
-My CV as updated on October 4th, 2024 can be found [here](assets/cv_updated.pdf)
+My CV as updated on October 4th, 2024 can be found [here](assets/cv.pdf)
 
 
 
