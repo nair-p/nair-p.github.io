@@ -9,11 +9,11 @@ description: >
 
 1. **T-Net: Weakly Supervised Graph Learning for Combatting Human Trafficking**
 
-   Posed the problem of detecting organized crime groups from online escort markets as node classification in graphs. Introduced labelling functions to obtain weak labels and combined a weakly supervised approach with graph contrastive learning. This approach effectively detected suspicious groups with a 7% increase in accuracy over previous methods.   
+   Posed the problem of detecting organized crime groups from online escort markets as node classification in graphs. Introduced labelling functions to obtain weak labels and combined a weakly supervised approach with graph contrastive learning. This approach effectively detected suspicious groups with a 7% increase in accuracy over previous methods. [Code](https://github.com/ComplexData-MILA/T-Net)   
 
 2. **Person Name Extraction for Fighting Human Trafficking**
 
-   Proposed a weak supervision pipeline to obtain person names from noisy, user-generated escort ads by combining multiple NER models (including rule-based, dictionary and various language models). Such a combination improved extraction accuracy by 19%
+   Proposed a weak supervision pipeline to obtain person names from noisy, user-generated escort ads by combining multiple NER models (including rule-based, dictionary and various language models). Such a combination improved extraction accuracy by 19% [Code](https://github.com/ComplexData-MILA/HT-NER)
 
 3. **VisPaD - Visualization and Pattern Discovery for Fighting Human Trafficking**
 
